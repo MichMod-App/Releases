@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "ТУТ_БУДЕТ_ССЫЛКА_НА_СКАЧИВАНИЕ_ZIP_АРХИВА",
+  "url": "https://github.com/MichMod-App/Releases/releases/download/v1.0.0/MichMod_v1.0.0.zip",
   "changelog": "Первый запуск системы автообновления.",
   "mandatory": false,
   "checksum": ""
